@@ -1,0 +1,19 @@
+body {
+  font-family: Monoton;
+  background:radial-gradient(black,black,black,black, midnightblue, #ffffff)
+}
+
+.title {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+}
+
+.name1 {
+  color:#003a65
+}
+
+.name2 {
+  color:#009085
+}
+
